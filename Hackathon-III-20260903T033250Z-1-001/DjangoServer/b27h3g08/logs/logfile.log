@@ -1,0 +1,14 @@
+[03/Sep/2026 03:53:31] INFO [django.server:212] "GET /audio_recorder/menu/b27h3g08 HTTP/1.0" 200 1867
+[03/Sep/2026 03:53:35] INFO [django.server:212] "GET /audio_recorder/select_item/b27h3g08 HTTP/1.0" 200 6295
+[03/Sep/2026 03:53:39] INFO [django.server:212] "GET /audio_recorder/menu/b27h3g08 HTTP/1.0" 200 1867
+[03/Sep/2026 03:58:53] INFO [django.server:212] "GET /audio_recorder/upload/b27h3g08 HTTP/1.0" 200 11224
+[03/Sep/2026 03:59:38] INFO [django.server:212] "GET /audio_recorder/upload/b27h3g08 HTTP/1.0" 200 11224
+[03/Sep/2026 04:01:20] INFO [django.server:212] "POST /audio_recorder/upload/b27h3g08 HTTP/1.0" 200 21
+[03/Sep/2026 04:01:22] INFO [django.server:212] "POST /audio_recorder/upload/b27h3g08 HTTP/1.0" 200 21
+[03/Sep/2026 04:01:22] INFO [django.server:212] "POST /audio_recorder/upload/b27h3g08 HTTP/1.0" 200 21
+[03/Sep/2026 04:01:23] INFO [django.server:212] "POST /audio_recorder/upload/b27h3g08 HTTP/1.0" 200 21
+[03/Sep/2026 04:01:24] INFO [django.server:212] "POST /audio_recorder/upload/b27h3g08 HTTP/1.0" 200 21
+[03/Sep/2026 04:01:25] INFO [django.server:212] "POST /audio_recorder/upload/b27h3g08 HTTP/1.0" 200 21
+[03/Sep/2026 04:04:15] INFO [django.server:212] "GET /audio_recorder/menu/b27h3g08 HTTP/1.0" 200 1867
+[03/Sep/2026 04:04:17] INFO [django.server:212] "GET /audio_recorder/select_item/b27h3g08 HTTP/1.0" 200 6295
+[03/Sep/2026 04:04:30] INFO [django.server:212] "POST /audio_recorder/upload/b27h3g08 HTTP/1.0" 200 86
